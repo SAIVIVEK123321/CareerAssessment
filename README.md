@@ -52,9 +52,3 @@ career-assessment-tool/
 2. Configure database in `application.properties`  
 3. Run using `mvn spring-boot:run`  
 4. Access at `http://localhost:8080`
-
-## 🤝 Contributors
-- [Your Name](https://github.com/your-username)
-
-## 📄 License
-This project is licensed under the MIT License.
